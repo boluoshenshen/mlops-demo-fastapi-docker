@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/lmh/de/mlops_example/mlruns/396148058529925228/79ce624212004326baa6203337934b9b/artifacts
+end_time: 1763415906303
+entry_point_name: ''
+experiment_id: '396148058529925228'
+lifecycle_stage: active
+run_id: 79ce624212004326baa6203337934b9b
+run_name: logreg_C1.0_penalty_l1_seed42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763415906257
+status: 3
+tags: []
+user_id: luyua

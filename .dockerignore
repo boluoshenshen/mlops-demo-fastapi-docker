@@ -1,0 +1,19 @@
+# Virtual environments - huge, unnecessary
+venv/
+
+# MLflow runs folder - contains tons of model files & metadata
+mlruns/
+
+# temporary artifacts
+artifacts/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Git repo (history, branches, hooks)
+.git/
+.gitignore

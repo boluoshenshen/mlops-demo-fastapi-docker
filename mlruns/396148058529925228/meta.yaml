@@ -1,0 +1,6 @@
+artifact_location: file:///D:/lmh/de/mlops_example/mlruns/396148058529925228
+creation_time: 1763415906025
+experiment_id: '396148058529925228'
+last_update_time: 1763415906025
+lifecycle_stage: active
+name: logreg-demo
